@@ -1,0 +1,10 @@
+top:
+    - class_name: card_music
+      id_name: card_music
+      name: 全体欣赏音乐
+      icon: fas fa-music
+      order: 2
+#   不好用，一直自动播放    html: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=260 height=86 src="//music.163.com/outchain/player?type=2&id=29004400&auto=1&height=66"></iframe>
+# '
+      html: '<embed frameborder="no" border="0" marginwidth="0" marginheight="0" width=260 height=86 src="//music.163.com/outchain/player?type=2&id=1406119516&auto=1&height=66">
+'
