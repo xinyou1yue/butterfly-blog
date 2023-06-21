@@ -95,7 +95,13 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-
+    - https://s2.loli.net/2023/06/21/7SnLtIhNd6wXqk2.webp
+    - https://s2.loli.net/2023/06/21/8YrI19WpMJPQlVi.webp
+    - https://s2.loli.net/2023/06/21/ym8rC62fJqiLutA.webp
+    - https://s2.loli.net/2023/06/21/ngf6o84v2OlIm3z.webp
+    - https://s2.loli.net/2023/06/21/F2cBYUSt3OG4Dev.webp
+    - https://s2.loli.net/2023/06/21/DfvYjWQJux1rdtL.webp
+    - https://s2.loli.net/2023/06/21/J8cSNbAC1ezHxBk.webp
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
@@ -236,10 +242,10 @@ footer_beautify:
     name: footer-wrap
     index: 0
   # 计时器部分配置项（看你喜欢哪个，最好下载下来放到自己的项目中不然会增加我网站的负载）
-  #  这是我的  
+  #  这是我的
   # runtime_js: https://www.fomal.cc/static/js/runtime.js
-  # runtime_css: https://www.fomal.cc/static/css/runtime.min.css 
-  # 这是店长的 
+  # runtime_css: https://www.fomal.cc/static/css/runtime.min.css
+  # 这是店长的
   # runtime_js: https://npm.elemecdn.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.js
   # runtime_css: https://npm.elemecdn.com/hexo-butterfly-footer-beautify@1.0.0/lib/runtime.css
   # 徽标部分配置项
