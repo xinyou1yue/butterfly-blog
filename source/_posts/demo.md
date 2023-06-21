@@ -21,4 +21,5 @@ categories: Demo
 ![优惠码](https://s2.loli.net/2023/06/21/9WtOwTMyc8dqxjP.png)
 购买成功之后点击仪表盘进入节点一键导入，选择你所使用的软件即可\
 ![导入节点](https://s2.loli.net/2023/06/21/v8u7pNKVZLyYrUS.png)
-完成以上步骤之后就可以正常使用clash了
+完成以上步骤之后就可以正常使用clash了\
+2、打开clash后登录chatGPT网站就可以正常使用了
