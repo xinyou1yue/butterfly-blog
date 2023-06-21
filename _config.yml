@@ -172,8 +172,8 @@ magnet:
     - name: Python
       display_name: Python记录
       icon: 🐱‍👓
-    - name: Vue
-      display_name: 小冰の编程学习
+    - name: Demo
+      display_name: 516专题
       icon: 👩‍💻
     - name: MySQL
       display_name: 小冰の读书笔记
