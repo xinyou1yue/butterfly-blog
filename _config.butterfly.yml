@@ -58,7 +58,7 @@ index_img:
 
 # 主页卡片样式
 # Docs: https://akilar.top/posts/d6b69c49/
-index_card_style: slidecard # slidecard | multicard
+index_card_style: multicard # slidecard | multicard
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
