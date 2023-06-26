@@ -151,6 +151,7 @@ envelope_comment:
     - 有什么想说的？
     - 有什么想吐槽的？
     - 哪怕是有什么想吃的，都可以告诉我哦~
+    - 当然，你想了也是白想，因为根本没有留言的地方😁
   bottom: 自动书记人偶竭诚为您服务！ #仅支持单行文本
   height: #1050px，信封划出的高度
   path: #【可选】comments 的路径名称。默认为 comments，生成的页面为 comments/index.html
