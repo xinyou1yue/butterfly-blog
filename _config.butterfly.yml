@@ -102,13 +102,13 @@ cover:
 #    - https://s2.loli.net/2023/06/21/F2cBYUSt3OG4Dev.webp
 #    - https://s2.loli.net/2023/06/21/DfvYjWQJux1rdtL.webp
 #    - https://s2.loli.net/2023/06/21/J8cSNbAC1ezHxBk.webp
-    - https://cdnjson.com/image/GOXNq
-    - https://cdnjson.com/image/GOag2
-    - https://cdnjson.com/image/GOnIa
-    - https://cdnjson.com/image/GOwLU
-    - https://cdnjson.com/image/GObXK
-    - https://cdnjson.com/image/GOq1P
-    - https://cdnjson.com/image/GOzc5
+    - https://cdnjson.com/images/2023/06/27/default_cover_182.webp
+    - https://cdnjson.com/images/2023/06/27/default_cover_170.webp
+    - https://cdnjson.com/images/2023/06/27/default_cover_137.webp
+    - https://cdnjson.com/images/2023/06/27/default_cover_152.webp
+    - https://cdnjson.com/images/2023/06/27/default_cover_145.webp
+    - https://cdnjson.com/images/2023/06/27/default_cover_132.webp
+    - https://cdnjson.com/images/2023/06/27/default_cover_101.webp
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
