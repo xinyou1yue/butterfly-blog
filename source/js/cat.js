@@ -34,7 +34,7 @@ if (document.body.clientWidth > 992) {
                 borderRadius: 5 + 'px',
                 right: 60 + 'px',
                 // 这里可以换为你喜欢的图片，例如我就换为了雪人，但是要抠图
-                nekoImg: "https://s2.loli.net/2023/06/19/8fKHwovEJAL3apR.png",
+                nekoImg: "https://cdnjson.com/images/2023/06/27/Rocket2.png",
                 hoverMsg: "返回顶端👨🏻‍🚀",
                 color: "#6f42c1",
                 during: 500,

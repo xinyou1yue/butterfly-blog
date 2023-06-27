@@ -42,12 +42,12 @@ social:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://s2.loli.net/2023/06/17/x864yMsn9dbcKS3.png
+favicon: https://cdnjson.com/images/2023/06/27/354547b184031cba5899a75ee2ae16c2.png
 
 
 # Avatar (頭像)
 avatar:
-  img: https://s2.loli.net/2023/06/17/i92znw4ApV5THMB.jpg
+  img: https://cdnjson.com/images/2023/06/27/1b404cd9028bc5c1d27f952aa96079b0.jpg
   effect: false
 
 # Disable all banner image
@@ -94,14 +94,21 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - https://s2.loli.net/2023/06/21/7SnLtIhNd6wXqk2.webp
-    - https://s2.loli.net/2023/06/21/8YrI19WpMJPQlVi.webp
-    - https://s2.loli.net/2023/06/21/ym8rC62fJqiLutA.webp
-    - https://s2.loli.net/2023/06/21/ngf6o84v2OlIm3z.webp
-    - https://s2.loli.net/2023/06/21/F2cBYUSt3OG4Dev.webp
-    - https://s2.loli.net/2023/06/21/DfvYjWQJux1rdtL.webp
-    - https://s2.loli.net/2023/06/21/J8cSNbAC1ezHxBk.webp
+#    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+#    - https://s2.loli.net/2023/06/21/7SnLtIhNd6wXqk2.webp
+#    - https://s2.loli.net/2023/06/21/8YrI19WpMJPQlVi.webp
+#    - https://s2.loli.net/2023/06/21/ym8rC62fJqiLutA.webp
+#    - https://s2.loli.net/2023/06/21/ngf6o84v2OlIm3z.webp
+#    - https://s2.loli.net/2023/06/21/F2cBYUSt3OG4Dev.webp
+#    - https://s2.loli.net/2023/06/21/DfvYjWQJux1rdtL.webp
+#    - https://s2.loli.net/2023/06/21/J8cSNbAC1ezHxBk.webp
+    - https://cdnjson.com/image/GOXNq
+    - https://cdnjson.com/image/GOag2
+    - https://cdnjson.com/image/GOnIa
+    - https://cdnjson.com/image/GOwLU
+    - https://cdnjson.com/image/GObXK
+    - https://cdnjson.com/image/GOq1P
+    - https://cdnjson.com/image/GOzc5
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
@@ -707,7 +714,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://s2.loli.net/2023/06/17/Z5eLKHMCAVXcuQD.jpg)
+background: url(https://cdnjson.com/images/2023/06/27/bg.jpg)
 
 # Footer Background
 footer_bg: false
