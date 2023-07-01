@@ -182,6 +182,9 @@ magnet:
     - name: Hexo
       display_name: Hexo记录
       icon: 📚
+    - name: 碎片日常
+      display_name: 碎片日常
+      icon: 🎆
   color_setting:
     text_color: black
     text_hover_color: white
