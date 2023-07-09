@@ -15,7 +15,7 @@ categories: 516专题
 ![订阅节点](https://cdnjson.com/images/2023/07/09/86c7f5a055c224900abf42b29cd5fbe4.png)
 然后进行节点的订阅（free），选择9999.0金额节点
 ![订阅节点](https://cdnjson.com/images/2023/07/09/3dd36e3b869fc2cfb5b34bb83029e15e.png)
-使用优惠码进行购买结算金额会为0，进行下单、结账
+使用优惠码进行购买结算金额会为0，进行下单、结账。优惠码不是固定的，隔一段时间会进行更换会在[Telegram](https://t.me/bpshuang)中通知，或者联系我询问
 ![优惠码](https://cdnjson.com/images/2023/07/09/419fde15aba71e43dd16fed689dcd7d9.png)
 购买成功之后点击仪表盘进入节点一键导入，选择你所使用的软件即可
 ![导入节点](https://cdnjson.com/images/2023/07/09/a3cd3fcace37a19567804163deadb3ae.png)
