@@ -8,7 +8,7 @@ categories: 516专题
 
 1、使用AI第一步使用魔法（科学上网），首先需要我们需要一个能够科学上网的软件比如clash，可自行
 到网上进行下载安装，也可以呼叫我进行发送安装包。只是拥有软件还不够，其次我们还需要导入节点，在此
-我推荐以及自身使用节点网站：白嫖机场（网址为：白嫖机场.com 或者![白嫖机场](https://xn--mesv7f5toqlp.com/#/register?code=yp37Ubr7)）
+我推荐以及自身使用节点网站：白嫖机场，进入网址为：白嫖机场.com 或者点击[白嫖机场](https://xn--mesv7f5toqlp.com/#/register?code=yp37Ubr7)
 首先在网站进行注册登录（只需要邮箱和密码就行不需要接收验证码）
 ![界面截图](https://cdnjson.com/images/2023/07/09/dd084ed5f69e6b22a2db9b16caa48389.png)
 在左侧工具栏购买订阅，进入订阅购买界面
@@ -23,7 +23,7 @@ categories: 516专题
 
 ps1: 以上节点为我主要的免费节点网站，此外，在这个网站中也可以购买他们的收费节点。
 ps2：收费且速度不错的节点网站推荐：
-![雨燕云](https://yuyan.online/#/register?code=KmicL7xi)
-![Fun云](https://v2.fun513.gay/#/register?code=eF5PRTsa)
+[雨燕云](https://yuyan.online/#/register?code=KmicL7xi)
+[Fun云](https://v2.fun513.gay/#/register?code=eF5PRTsa)
 
 2、打开clash后再登录chatGPT网站就可以正常使用了
