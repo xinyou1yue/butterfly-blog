@@ -557,7 +557,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId:
+  envId: https:// butterfly-blog-cc5phhhi0-xinyou1yue.vercel.app
   region:
   visitor: false
   option:
