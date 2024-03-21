@@ -557,7 +557,7 @@ facebook_comments:
 # Twikoo
 # https://github.com/imaegoo/twikoo
 twikoo:
-  envId: https://twikoo-api-beta-nine.vercel.app/
+  envId: https://xloctober.eu.org/
   region: ap-shanghai
   visitor: true
   option:
