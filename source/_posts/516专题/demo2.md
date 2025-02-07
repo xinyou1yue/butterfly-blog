@@ -2,6 +2,7 @@
 title: 电脑热知识
 date: 2023-6-24
 categories: 516专题
+hidden: true
 ---
 
 ### 专题二 电脑小知识
