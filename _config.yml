@@ -174,9 +174,9 @@ magnet:
     - name: Python
       display_name: Python记录
       icon: 🐱‍👓
-    - name: 516专题
-      display_name: 516专题
-      icon: 👩‍💻
+    # - name: 516专题
+    #   display_name: 516专题
+    #   icon: 👩‍💻
     - name: MySQL
       display_name: 小冰の读书笔记
       icon: 📒
