@@ -166,7 +166,7 @@ magnet:
   priority: 1
   enable_page: /
   type: categories
-  devide: 2
+  devide: 4
   display:
     - name: Java
       display_name: Java记录
